@@ -1,0 +1,34 @@
+﻿Build started 12/12/2013 2:49:29 PM.
+     1>Project "C:\Users\brad\documents\visual studio 2010\Projects\scheduler\scheduler\scheduler.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\scheduler.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt main.cpp schedule.cpp /clr:nostdlib 
+         main.cpp
+     1>main.cpp(14): warning C4005: 'DEBUG' : macro redefinition
+                 c:\users\brad\documents\visual studio 2010\projects\scheduler\scheduler\schedule.h(4) : see previous definition of 'DEBUG'
+         schedule.cpp
+     1>schedule.cpp(158): warning C4101: 'toPrint' : unreferenced local variable
+         Generating Code...
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\brad\documents\visual studio 2010\Projects\scheduler\Debug\scheduler.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\scheduler.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\brad\documents\visual studio 2010\Projects\scheduler\Debug\scheduler.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\algorithm.obj
+         Debug\conflict.obj
+         Debug\fileIO.obj
+         Debug\gtclass.obj
+         Debug\main.obj
+         Debug\schedule.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         scheduler.vcxproj -> C:\Users\brad\documents\visual studio 2010\Projects\scheduler\Debug\scheduler.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\brad\documents\visual studio 2010\Projects\scheduler\Debug\scheduler.exe;#1" /manifest Debug\scheduler.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\scheduler.unsuccessfulbuild".
+         Touching "Debug\scheduler.lastbuildstate".
+     1>Done Building Project "C:\Users\brad\documents\visual studio 2010\Projects\scheduler\scheduler\scheduler.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.57

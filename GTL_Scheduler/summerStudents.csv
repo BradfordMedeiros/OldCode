@@ -1,0 +1,182 @@
+GTID,NAME,Gender,BIRTHDATE (US format),NBER OF SCH,COURSE 2,COURSE2TYPE,COURSE 3,COURSE3TYPE,COURSE 4,COURSE4TYPE,COURSE 5,COURSE5TYPE
+1,Adair,Male,12/6/1989,10,ISyE 3770,Absolutely essential,Econ 2101,Absolutely essential,HTS 2084,Absolutely essential,Fren 1001,Strongly desired
+2,Aitken,Female,12/6/1989,10,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,Fren 1001,Strongly desired,HTS 2084,Strongly desired
+3,Albrecht,Male,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,HTS 2084,Strongly desired,MSE 2001,Strongly desired
+4,Allen,Female,12/6/1989,10,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,Econ 2101,Strongly desired,-,Absolutely essential
+5,Anderson,Female,12/6/1989,10,ISyE 3770,Absolutely essential,HTS 2084,Absolutely essential,MSE 2001,Absolutely essential,-,Absolutely essential
+6,Anglin,Male,12/6/1989,10,MGT 3660,Absolutely essential,MGT 3150,Strongly desired,ECE 4750,Strongly desired,-,Strongly desired
+7,Annamalai,Male,12/6/1989,11,ISyE 2028,Strongly desired,ISyE 3025,Strongly desired,CS 4400,Strongly desired,Fren 1001,Strongly desired
+8,Astley,Male,12/6/1989,12,ECE 3076,Strongly desired,ISyE 3770,Strongly desired,Fren 1001,Strongly desired,CoE 2001,Strongly desired
+9,Bae,Male,12/6/1989,10,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+10,Baunchalk,Male,12/6/1989,10,ME 3322,Absolutely essential,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+11,Becker,Male,12/6/1989,10,ECE 4751,Absolutely essential,ECE 3076,Absolutely essential,HTS 2084,Strongly desired,-,Strongly desired
+12,Belton ,Female,12/6/1989,10 or 12,Fren 4813,Strongly desired,CoE 2001,Strongly desired,MSE 2001,Strongly desired,Econ 2101,Strongly desired
+13,Bethea,Male,12/6/1989,10,Fren 1001,Absolutely essential,ME 3322,Strongly desired,HTS 4803,Strongly desired,-,Absolutely essential
+14,Bou,Male,12/6/1989,12,ISyE 3025,Strongly desired,ISyE 3039,Absolutely essential,MGT 3150,Absolutely essential,CS 4400,Strongly desired
+15,Brelloch,Male,12/6/1989,10,ECE 3025,Strongly desired,ME 3322,Strongly desired,ISyE 3770,Absolutely essential,-,Absolutely essential
+16,Brunone,Male,12/6/1989,10,HTS 2084,Absolutely essential,MGT 3660,Absolutely essential,ME 4760,Absolutely essential,-,Absolutely essential
+17,Bryan,Female,12/6/1989,10,ISyE 3770,Strongly desired,MGT 3150,Strongly desired,ME 3322,Strongly desired,-,Absolutely essential
+18,Buran,Male,12/6/1989,10,Fren 1001,Absolutely essential,ISyE 3039,Strongly desired,MGT 3150,Strongly desired,-,Absolutely essential
+19,Burkic,Male,12/6/1989,10,ECE 3025,Absolutely essential,HTS 2084,Absolutely essential,ME 3720,Absolutely essential,-,Absolutely essential
+20,Caballero,Male,12/6/1989,Oct-13,ECE 3025,Absolutely essential,ME 3720,Absolutely essential,HTS 2084,Strongly desired,ECE 4750,Strongly desired
+21,Cadic,Female,12/6/1989,10,ISyE 3770,Strongly desired,Fren 4901,Strongly desired,ME 3322,Strongly desired,MSE 2001,Strongly desired
+22,Campbell,Female,12/6/1989,10,ISyE 3770,Strongly desired,Fren 1001,Strongly desired,ME 3322,Absolutely essential,-,Absolutely essential
+23,Caristinos,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 4813,Strongly desired,-,Absolutely essential
+24,Carnavos,Female,12/6/1989,11,MSE 2001,Absolutely essential,ISyE 3025,Absolutely essential,ISyE 3770,Absolutely essential,Fren 1001,Strongly desired
+25,Carson,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Econ 2101,Strongly desired,-,Absolutely essential
+26,Chaddick,Male,12/6/1989,10,Fren 2813,Strongly desired,Econ 2101,Strongly desired,MGT 3150,Strongly desired,ISyE 3025,Strongly desired
+27,Chen,Male,12/6/1989,10,Econ 2101,Absolutely essential,CoE 3001,Absolutely essential,HTS 2084,Absolutely essential,-,Absolutely essential
+28,Choi ,Female,12/6/1989,10,MGT 3150,Absolutely essential,Fren 1001,Absolutely essential,HTS 2084,Strongly desired,-,Absolutely essential
+29,Cleveland,Female,12/6/1989,12,ISyE 3770,Absolutely essential,ECE 2040,Absolutely essential,HTS 2084,Absolutely essential,Fren 1001,Absolutely essential
+30,Daugherty,Male,12/6/1989,6,Fren 1001,Absolutely essential,CoE 3001,Absolutely essential,-,Absolutely essential,-,Absolutely essential
+31,David,Male,12/6/1989,11,CoE 3001,Strongly desired,ISyE 3770,Strongly desired,HTS 2084,Strongly desired,ISyE 3025,Strongly desired
+32,Dehitta,Female,12/6/1989,10,ISyE 3770,Strongly desired,Fren 1001,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+33,Dennis,Female,12/6/1989,10,ME 3322,Absolutely essential,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,-,Absolutely essential
+34,Dewberry,Male,12/6/1989,10,MGT 3660,Absolutely essential,MGT 3150,Absolutely essential,Fren 1002,Strongly desired,-,Absolutely essential
+35,Dextraze,Female,12/6/1989,13,ME 3322 ,Absolutely essential,ECE 3710,Absolutely essential,ISyE 3770,Absolutely essential,Fren 2021,Strongly desired
+36,Dickerson ,Male,12/6/1989,10,Fren 1001,Absolutely essential,MGT 3150,Absolutely essential,HTS 2084,Absolutely essential,-,Absolutely essential
+37,Diebold,Female,12/6/1989,12,CS 4400,Absolutely essential,ISyE 3039,Absolutely essential,CoE 2001,Absolutely essential,ECE 3710,Absolutely essential
+38,Dodd,Male,12/6/1989,10,Econ 2101,Absolutely essential,HTS 2084,Absolutely essential,ME 3720,Absolutely essential,-,Absolutely essential
+39,Donegia,Female,12/6/1989,10,Fren 1001,Absolutely essential,Econ 2101,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+40,Drucker,Male,12/6/1989,10,ECE 3025,Absolutely essential,HTS 2084,Strongly desired,ISyE 3770,Absolutely essential,-,Absolutely essential
+41,Duarte,Male,12/6/1989,13,Fren 1001,Strongly desired,CoE 3001,Strongly desired,ISyE 3770,Strongly desired,MSE 2001,Strongly desired
+42,Dwan,Female,12/6/1989,10,MSE 2001,Absolutely essential,ECE 3710,Absolutely essential,HTS 2084,Strongly desired,ISyE 3025,Strongly desired
+43,Effgen,Male,12/6/1989,10,ECE 4750,Absolutely essential,Econ 2101,Absolutely essential,HTS 2084,Strongly desired,-,Strongly desired
+44,Enger,Female,12/6/1989,10,ISyE 2028,Absolutely essential,CS 4400,Strongly desired,Fren 1001,Strongly desired,-,Absolutely essential
+45,Evans,Male,12/6/1989,12,CoE 3001,Strongly desired,ECE 3710,Strongly desired,ISyE 3770,Strongly desired,ME 3322,Strongly desired
+46,Fan,Female,12/6/1989,13,CS 4400,Strongly desired,ISyE 2028,Absolutely essential,MGT 3150,Absolutely essential,HTS 2084,Absolutely essential
+47,Ferguson,Female,12/6/1989,10,ECE 3025,Absolutely essential,ISyE 3770,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+48,Feuston,Female,12/6/1989,10 SCH,CS 4001,Strongly desired,CS 3251,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+49,Fischer,Male,12/6/1989,11,CoE 3001,Strongly desired,ISyE 3025,Strongly desired,ISyE 3770,Strongly desired,ME 3322,Strongly desired
+50,Fraser,Female,12/6/1989,13,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,Fren 1001,Strongly desired
+51,Fulk,Female,12/6/1989,10,CoE 3001,Absolutely essential,ME 3322,Strongly desired,Fren 1001,Absolutely essential,MSE 2001,Absolutely essential
+52,Fundora,Male,12/6/1989,10,ECE 3076,Absolutely essential,ECE 3025,Strongly desired,HTS 2084,Absolutely essential,ECE 3710,Strongly desired
+53,Gamble,Male,12/6/1989,10,Fren 1001,Strongly desired,Econ 2101,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+54,Geahchan,Male,12/6/1989,,ISyE 3025,Absolutely essential,Fren 4813,Absolutely essential,ISyE 3039,Absolutely essential,CS 4400,Absolutely essential
+55,Giardina,Male,12/6/1989,10,HTS 2084,Strongly desired,Econ 2101,Strongly desired,MSE 2001,Strongly desired,-,Absolutely essential
+56,Gildea,Male,12/6/1989,10,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,HTS 2084,Absolutely essential,-,Absolutely essential
+57,Gold,Female,12/6/1989,10,HTS 2084,Strongly desired,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+58,Greene,Male,12/6/1989,10,Fren 2021,Strongly desired,ME 4760,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+59,Greenwood,Male,12/6/1989,10,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+60,Gruber,Male,12/6/1989,10,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,HTS 2084,Strongly desired,-,Absolutely essential
+61,Hade,Male,12/6/1989,10,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+62,Hall,Male,12/6/1989,10,ECE 2040,Absolutely essential,ME 3322,Absolutely essential,HTS 2084,Strongly desired,Fren 1001,Strongly desired
+63,Hamrock,Male,12/6/1989,10,Fren 1001,Strongly desired,HTS 2084,Absolutely essential,CS 4001,Absolutely essential,-,Absolutely essential
+64,Haram,Male,12/6/1989,11,CS 4400,Absolutely essential,ISyE 3039,Absolutely essential,ISyE 3025,Absolutely essential,Fren 1001,Absolutely essential
+65,Harper,Male,12/6/1989,13,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 1001,Strongly desired,MSE 2001,Absolutely essential
+66,Hassig,Male,12/6/1989,10,ECE 3025,Absolutely essential,ECE 4750,Strongly desired,MSE 2001,Strongly desired,-,Absolutely essential
+67,Hauser ,Male,12/6/1989,11,ISyE 2028,Absolutely essential,Fren 1002,Strongly desired,ISyE 3025,Absolutely essential,HTS 2084,Absolutely essential
+68,Hendrix,Female,12/6/1989,10,ISyE 2028,Absolutely essential,CS 4400,Absolutely essential,Fren 1002,Strongly desired,-,Absolutely essential
+69,Hernandez,Male,12/6/1989,10,HTS 2084,Strongly desired,Econ 2101,Strongly desired,Fren 1001,Strongly desired,-,Absolutely essential
+70,Hilborn,Male,12/6/1989,12,CoE 2001,Absolutely essential,Fren 1001,Absolutely essential,HTS 2084,Absolutely essential,MSE 2001,Absolutely essential
+71,Hosie,Male,12/6/1989,13,ME 3720,Strongly desired,ISyE 3770,Absolutely essential,ECE 3025,Absolutely essential,CS 4001,Strongly desired
+72,Huber,Male,12/6/1989,10,MSE 2001,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+73,Irby,Male,12/6/1989,11,MSE 2001,Strongly desired,Fren 4813,Absolutely essential,ECE 3710,Strongly desired,Econ 2101,Strongly desired
+74,Jabaley,Male,12/6/1989,10,CS 4400,Absolutely essential,MGT 3150,Absolutely essential,Fren 1001,Absolutely essential,-,Absolutely essential
+75,Jain,Male,12/6/1989,10,CS 4400,Absolutely essential,ISyE 3770,Absolutely essential,MGT 3150,Absolutely essential,-,Absolutely essential
+76,Jemec,Female,12/6/1989,10,ECE 3710,Absolutely essential,ISyE 3025,Absolutely essential,ISyE 3770,Absolutely essential,MGT 3660,Strongly desired
+77,John,Male,12/6/1989,10,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+78,Kaimal,Male,12/6/1989,12,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,ME 4760,Absolutely essential,ECE 2699,Strongly desired
+79,Karpowicz,Male,12/6/1989,10,MSE 2001,Absolutely essential,CoE 3001,Absolutely essential,ISyE 3770,Strongly desired,-,Absolutely essential
+80,Kaugars,Male,12/6/1989,11,MSE 2001,Strongly desired,Fren 1002,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+81,Keller,Male,12/6/1989,10,Fren 1002,Absolutely essential,ME 3322,Absolutely essential,ECE 3025,Absolutely essential,-,Absolutely essential
+82,Ketzler,Female,12/6/1989,10,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+83,Key,Female,12/6/1989,10,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3025,Strongly desired
+84,Kim,Male,12/6/1989,11,MSE 2001,Absolutely essential,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3025,Absolutely essential
+85,King,Male,12/6/1989,10,CoE 2001,Absolutely essential,ECE 3710,Absolutely essential,HTS 2084,Strongly desired,ISyE 3025,Strongly desired
+86,Kloster,Female,12/6/1989,10,Fren 1001,Strongly desired,ISyE 3039,Absolutely essential,MSE 2001,Absolutely essential,-,Absolutely essential
+87,Kohlsdorf,Male,12/6/1989,10,MGT 3150,Strongly desired,Econ 2101,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+88,Krishnamurthy,Male,12/6/1989,10,ECE 3025,Absolutely essential,ECE 3076,Absolutely essential,ME 3720,Absolutely essential,-,Absolutely essential
+89,Kumar,Male,12/6/1989,16,MSE 2001,Absolutely essential,ECE 3710,Absolutely essential,ME 3322,Absolutely essential,Econ 2101,Strongly desired
+90,Ladha,Male,12/6/1989,12,CoE 2001,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3770,Absolutely essential,ME 3322,Absolutely essential
+91,Lafferty,Male,12/6/1989,10,CS 3251,Absolutely essential,CS 2699,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+92,Leary,Male,12/6/1989,10,HTS 2084,Strongly desired,ISyE 3770,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+93,Lee,Female,12/6/1989,12,ISyE 2028,Absolutely essential,ISyE 3770,Absolutely essential,CS 4400,Absolutely essential,CoE 2001,Absolutely essential
+94,Liu,Male,12/6/1989,10 to 13,CS 3251,Strongly desired,CS 4001,Strongly desired,CS 4400,Strongly desired,Fren 1001,Strongly desired
+95,Liu,Female,12/6/1989,12,Fren 1001,Strongly desired,ISyE 3770,Absolutely essential,Econ 2101,Absolutely essential,CoE 2001,Absolutely essential
+96,Loftin,Female,12/6/1989,12,CoE 2001,Strongly desired,ME 3322,Strongly desired,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential
+97,Lohr ,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,MGT 3150,Strongly desired,-,Absolutely essential
+98,Lorenzana,Male,12/6/1989,10,ISyE 3770,Absolutely essential,MGT 3150,Absolutely essential,MSE 2001,Absolutely essential,-,Absolutely essential
+99,Malhotra,Female,12/6/1989,10,CS 4400,Absolutely essential,MGT 3150,Absolutely essential,Fren 1001,Absolutely essential,-,Absolutely essential
+100,Manfre,Male,12/6/1989,12,MSE 2001,Absolutely essential,ME 3322,Absolutely essential,Econ 2101,Absolutely essential,ECE 3710,Absolutely essential
+101,Martell,Female,12/6/1989,13,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,ECE 3710,Strongly desired,Fren 1001,Strongly desired
+102,Martin,Male,12/6/1989,10,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+103,Mathew,Male,12/6/1989,10,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+104,Mecredy,Male,12/6/1989,10,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,MGT 3150,Strongly desired,-,Absolutely essential
+105,Meree,Female,12/6/1989,10,ISyE 3770,Strongly desired,CoE 2001,Absolutely essential,HTS 2084,Strongly desired,-,Absolutely essential
+106,Mishra,Male,12/6/1989,12,CoE 2001,Absolutely essential,ISyE 3770,Absolutely essential,HTS 2084,Absolutely essential,ME 3322,Absolutely essential
+107,Moore,Male,12/6/1989,10,ISyE 3770,Absolutely essential,HTS 2084,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+108,Mukhopadhaya ,Male,12/6/1989,10,MSE 2001,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+109,Murphy,Female,12/6/1989,10,ISyE 3770,Absolutely essential,ME 3720,Absolutely essential,HTS 2084,Strongly desired,-,Absolutely essential
+110,Nagarkar,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,HTS 4803,Absolutely essential,-,Absolutely essential
+111,Nash,Female,12/6/1989,11,Fren 1002,Absolutely essential,CS 4001,Absolutely essential,MGT 3150,Absolutely essential,-,Absolutely essential
+112,Nevius,Male,12/6/1989,12,Fren 1002,Absolutely essential,CoE 3001,Absolutely essential,ECE 3710,Absolutely essential,HTS 2084,Absolutely essential
+113,Ngo,Male,12/6/1989,10,Fren 1001,Strongly desired,ISyE 2028,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+114,Nielsen,Male,12/6/1989,10,MSE 2001,Absolutely essential,Fren 1001,Strongly desired,Econ 2101,Strongly desired,-,Absolutely essential
+115,Nordhielm,Male,12/6/1989,,ISyE 2028,Absolutely essential,ISyE 3025,Absolutely essential,MGT 3150,Absolutely essential,ECE 3710,Absolutely essential
+116,O'Connor,Male,12/6/1989,11,ISyE 2028,Absolutely essential,ISyE 3025,Strongly desired,Fren 1002,Strongly desired,MGT 3150,Absolutely essential
+117,Olivier ,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+118,Orear,Male,12/6/1989,10,ECE 3076,Absolutely essential,ECE 2040,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+119,Ostis,Female,12/6/1989,10,ISyE 3025,Absolutely essential,CoE 2001,Absolutely essential,MSE 2001,Absolutely essential,CS 4400,Absolutely essential
+120,Pandian,Male,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 2813,Absolutely essential,-,Absolutely essential
+121,Parekh,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+122,Park,Male,12/6/1989,12,ISyE 2028,Strongly desired,MGT 3150,Strongly desired,CoE 2001,Strongly desired,Fren 1001,Absolutely essential
+123,Patel,Male,12/6/1989,12,Fren 1001,Absolutely essential,MSE 2001,Absolutely essential,HTS 2084,Absolutely essential,CoE 2001,Strongly desired
+124,Paul,Male,12/6/1989,10,Fren 1001,Strongly desired,MGT 3660,Strongly desired,CS 4001,Strongly desired,-,Absolutely essential
+125,Pavia,Male,12/6/1989,10,Econ 2101,Strongly desired,MGT 3150,Strongly desired,HTS 2084,Strongly desired,-,Absolutely essential
+126,Pesantez,Male,12/6/1989,13,CoE 3001,Strongly desired,ISyE 3025,Strongly desired,ME 3322,Strongly desired,ISyE 3025,Absolutely essential
+127,Phillips,Male,12/6/1989,10,CoE 3001,Absolutely essential,HTS 2084,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+128,Plantz,Male,12/6/1989,12,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,MSE 2001,Absolutely essential,-,Absolutely essential
+129,Quintas,Male,12/6/1989,10,HTS 2084,Strongly desired,ECE 3025,Absolutely essential,MGT 3150,Strongly desired,-,Absolutely essential
+130,Quintero,Male,12/6/1989,10,MSE 2001,Strongly desired,ME 3322,Strongly desired,CoE 3001,Strongly desired,-,Absolutely essential
+131,Rahman,Female,12/6/1989,10 SCH,CS 4400,Absolutely essential,ISyE 3039,Absolutely essential,MGT 3150,Absolutely essential,-,Absolutely essential
+132,Rao,Female,12/6/1989,10,MGT 3150,Absolutely essential,ISyE 2028,Absolutely essential,ISyE 3025,Strongly desired,HTS 2084,Strongly desired
+133,Rea,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 1001,Strongly desired,Fren 1002,Strongly desired
+134,Reass,Male,12/6/1989,10,HTS 2084,Absolutely essential,HTS 4803,Absolutely essential,Fren 1001,Strongly desired,MGT 3150,Strongly desired
+135,Reavis,Female,12/6/1989,10,Fren 1001,Absolutely essential,ChBE 3110,Strongly desired,MSE 2001,Strongly desired,ChBE 3200,Strongly desired
+136,Reece ,Male,12/6/1989,10,ECE 3025,Absolutely essential,ECE 3076,Absolutely essential,ISyE 3770,Absolutely essential,-,Absolutely essential
+137,Reyes ,Male,12/6/1989,10,MSE 2001,Absolutely essential,Fren 2813,Absolutely essential,HTS 2084,Absolutely essential,-,Absolutely essential
+138,Richards,Male,12/6/1989,,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,Econ 2101,Absolutely essential,HTS 2084,Absolutely essential
+139,Robinson,Female,12/6/1989,10,CS 4400,Absolutely essential,MSE 2001,Absolutely essential,Fren 1002,Strongly desired,-,Absolutely essential
+140,Rodriguez ,Male,12/6/1989,13,ECE 3710,Absolutely essential,ISyE 3025,Absolutely essential,ISyE 3039,Absolutely essential,MGT 3150,Absolutely essential
+141,Roesel,Female,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 2813,Absolutely essential,-,Absolutely essential
+142,Rogers,Female,12/6/1989,10,ECE 3025,Absolutely essential,ME 3322,Absolutely essential,ECE 2699,Strongly desired,Econ 2101,Strongly desired
+143,Ronshage,Male,12/6/1989,10,ECE 3025,Strongly desired,Fren 2813,Strongly desired,ECE 3076,Strongly desired,-,Absolutely essential
+144,Rosenblatt,Female,12/6/1989,13,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,MSE 2001,Absolutely essential,-,Absolutely essential
+145,Ross,Male,12/6/1989,10,ECE 3025,Absolutely essential,ECE 4750,Absolutely essential,HTS 2084,Strongly desired,-,Absolutely essential
+146,Ruge,Male,12/6/1989,10,CS 3251,Absolutely essential,CS 4001,Absolutely essential,ISyE 3770,Strongly desired,-,Absolutely essential
+147,Schlumpberger,Male,12/6/1989,12,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,MSE 2001,Absolutely essential,CoE 2001,Strongly desired
+148,Schulz,Male,12/6/1989,10,ChBE 3110,Absolutely essential,Econ 2101,Strongly desired,Fren 1001,Strongly desired,-,Absolutely essential
+149,Schwartz,Male,12/6/1989,,CoE 2001,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3025,Strongly desired,HTS 4803,Strongly desired
+150,Scott,Male,12/6/1989,11,ME 4760,Absolutely essential,ISyE 3025,Absolutely essential,HTS 2084,Absolutely essential,HTS 4803,Strongly desired
+151,Semmens,Male,12/6/1989,11,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,ISyE 3025,Strongly desired,ME 3322,Absolutely essential
+152,Serway,Female,12/6/1989,10,ISyE 3770,Absolutely essential,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,-,Absolutely essential
+153,Seth,Male,12/6/1989,10,ISyE 3039,Absolutely essential,Fren 1001,Absolutely essential,MGT 3660,Strongly desired,-,Absolutely essential
+154,Shibeshi,Male,12/6/1989,10,ECE 3025,Absolutely essential,HTS 2084,Absolutely essential,CoE 2001,Absolutely essential,-,Absolutely essential
+155,Shin,Male,12/6/1989,13,Fren 2813,Strongly desired,Fren 4813,Strongly desired,MSE 2001,Strongly desired,Econ 2101,Strongly desired
+156,Shinotsuka,Male,12/6/1989,10,ME 3322,Strongly desired,MSE 2001,Strongly desired,Fren 2021,Strongly desired,-,Absolutely essential
+157,Smith,Female,12/6/1989,10,ME 4760,Absolutely essential,HTS 2084,Absolutely essential,Fren 1001,Strongly desired,-,Absolutely essential
+158,Soles,Male,12/6/1989,12,CoE 3001,Absolutely essential,ECE 3710,Strongly desired,Fren 1001,Strongly desired,Econ 2101,Strongly desired
+159,St.James,Male,12/6/1989,10,ISyE 2028,Absolutely essential,ISyE 3025,Absolutely essential,MSE 2001,Absolutely essential,CoE 2001,Strongly desired
+160,Stevens,Male,12/6/1989,10,Econ 2101,Strongly desired,Econ 2101,Strongly desired,-,Absolutely essential,-,Absolutely essential
+161,Stewart ,Male,12/6/1989,12,CoE 2001,Strongly desired,ECE 3025,Absolutely essential,ECE 3076,Absolutely essential,ISyE 3770,Strongly desired
+162,Swegan,Female,12/6/1989,,Fren 2021,Absolutely essential,ISyE 3025,Absolutely essential,ECE 3710,Absolutely essential,HTS 2084,Absolutely essential
+163,Tanner,Male,12/6/1989,11,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,HTS 2084,Absolutely essential,ISyE 3025,Strongly desired
+164,Tans,Female,12/6/1989,10,ECE 3710,Absolutely essential,CoE 3001,Absolutely essential,ISyE 3770,Absolutely essential,ISyE 3025,Strongly desired
+165,Taylor,Male,12/6/1989,13,CoE 3001,Absolutely essential,Econ 2101,Strongly desired,ME 3322,Absolutely essential,ME 4760,Strongly desired
+166,Teague,Male,12/6/1989,12,ECE 3025,Absolutely essential,CoE 2001,Absolutely essential,Fren 1001,Strongly desired,HTS 2084,Strongly desired
+167,Tilva,Male,12/6/1989,,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,CoE 3001,Absolutely essential,ISyE 3025,Absolutely essential
+168,Twynham,Male,12/6/1989,10,CoE 2001,Absolutely essential,ME 3322,Absolutely essential,MGT 3150,Absolutely essential,Fren 1001,Absolutely essential
+169,Valente ,Male,12/6/1989,10,Fren 1001,Strongly desired,ECE 3710,Strongly desired,CoE 3001,Strongly desired,HTS 2084,Strongly desired
+170,Villa,Male,12/6/1989,12,ECE 3025,Absolutely essential,ECE 3076,Absolutely essential,ECE 4751,Strongly desired,ME 3322,Absolutely essential
+171,Vimawala,Male,12/6/1989,13,CS 4001,Strongly desired,MGT 3150,Absolutely essential,MGT 3660,Absolutely essential,CS 4400,Strongly desired
+172,Walsh,Male,12/6/1989,10,ChBE 3110,Absolutely essential,ChBE 3200,Absolutely essential,Fren 1002,Absolutely essential,-,Absolutely essential
+173,Waterbury,Male,12/6/1989,10,Fren 2021,Strongly desired,HTS 2084,Strongly desired,HTS 4803,Strongly desired,Econ 2101,Strongly desired
+174,Wingler,Female,12/6/1989,13,ISyE 3025,Absolutely essential,ISyE 3039,Absolutely essential,ISyE 3770,Absolutely essential,ME 3322,Strongly desired
+175,Worthington,Female,12/6/1989,10,ME 3322,Absolutely essential,ISyE 3770,Absolutely essential,ECE 3710,Strongly desired,ISyE 3025,Strongly desired
+176,Wu,Male,12/6/1989,12,CoE 3001,Absolutely essential,ME 3322,Absolutely essential,ISyE 3025,Absolutely essential,MGT 3150,Absolutely essential
+177,Yahiaoui,Male,12/6/1989,10+,MGT 3150,Strongly desired,HTS 2084,Strongly desired,Econ 2101,Strongly desired,-,Absolutely essential
+178,Yang,Male,12/6/1989,13,ISyE 3039,Absolutely essential,CS 4400,Absolutely essential,MSE 2001,Absolutely essential,MGT 3660,Strongly desired
+179,Yew,Male,12/6/1989,12,CS 4400,Absolutely essential,MGT 3150,Absolutely essential,MSE 2001,Absolutely essential,CoE 3001,Absolutely essential
+180,Yildirim,Male,12/6/1989,12,ISyE 2028,Strongly desired,ISyE 3039,Strongly desired,Econ 2101,Strongly desired,ISyE 3025,Strongly desired
+181,Yurchesyn,Male,12/6/1989,10,HTS 2084,Absolutely essential,HTS 4803,Absolutely essential,Econ 2101,Absolutely essential,-,Absolutely essential

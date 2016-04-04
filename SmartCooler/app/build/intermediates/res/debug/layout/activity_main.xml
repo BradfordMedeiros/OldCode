@@ -1,0 +1,12 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:configChanges = "orientation"
+
+    android:screenOrientation="portrait"
+    android:background="@mipmap/wood_background">
+
+</android.support.v4.view.ViewPager><!-- From: file:/C:/Users/bradm_000/AndroidStudioProjects/TabsWithSwipeGesture/app/src/main/res/layout/activity_main.xml -->

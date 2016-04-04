@@ -1,0 +1,3 @@
+GTID,NAME,Gender,BIRTHDATE (US format),NBER OF SCH,COURSE 2,COURSE2TYPE,COURSE 3,COURSE3TYPE,COURSE 4,COURSE4TYPE,COURSE 5,COURSE5TYPE
+1,Adair,Male,12/6/1989,10,COE 2001,Absolutely essential,COE 3001,Absolutely essential,ECE 3025,Absolutely essential,ECE 2040,Strongly desired
+2,Aitken,Female,12/6/1989,10,ECE 3025,Absolutely essential,ECE 2040,Absolutely essential,ECE 2699,Strongly desired,COE 2001,Strongly desired

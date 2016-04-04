@@ -1,0 +1,35 @@
+COURSE NUMBER,SECT,CRN,COURSE TITLE,FACULTY,ADDITIONAL FACULTY,SCH
+COE 2001,RMZ,29093,Statics,McPhie,Berthelot,2
+COE 3001,RMZ,27680,Deformable Bodies,Satya,Berthelot,4
+ECE 2699,RMZ,upon req.,Undergraduate research,Voss,,3
+ECE 3076,RMZ,27800,Computer Communications,Owen,,3
+ECE 2040,RMZ,2454812,Circuit and Something,Sands,,2
+ECE 3025,RMZ,24548,Class class class,Sands,,2
+ECE 4750,RMZ,,Another ECE class,Owen,,3
+ECE 4751,RMZ,,A different ECE class,Voss,,3
+ECE 3710,RMZ,24548,Circuit and Electronics,Sands,,2
+ECON 2101,RMZ,29134,Global Economy,Sonntag,,3
+FREN 1001,RMZ,27609,Elementary French 1,Serafin,,3
+FREN 1002,RMZ,27609,Elementary French 2,Serafin,,3
+FREN 2021,RMZ,,Intermediate French,Smith,,3
+FREN 2813,RMZ,,Other Intermediate French,Smith,,3
+FREN 4813,RMZ,,Advanced French 1,Serafin,,3
+FREN 4901,RMZ,27609,Advanced French 2,Smith,,3
+IsyE 3025,RMZ,24103,Essentials of Engineering Economy (*),Sands,,1
+IsYE 3039,RMZ,29313,Supply Chain Modeling : Manf. & Ware,Sharp,,3
+ISYE 2028,RMZ,,ISYE class,Sharp,,3
+IsyE 3770,RMZ,24104,Statistics and Applications,Sands,,3
+HTS 4803,RMZ,27503,Special topics,Hardy,,3
+HTS 2084,RMZ,22439,Technology and Society,Hardy,,3
+ME 3322,RMZ,24427,Heat Transfer,Capolungo,,3
+ME 3720,RMZ,27623,Capstone Design,Cherkaoui,,3
+ME 4760,RMZ,upon req.,Undergraduate research,Capolungo,Rios,3
+CS 2699,RMZ,upon req.,Undergraduate research,Owen,,3
+CS 3251,RMZ,28014,Networking 1,Owen,,3
+CS 4001,RMZ,29494,Natural Language,Novick,,3
+CS 4400,RMZ,28013,Methods in HCI,Novick,,3
+CHBE 3200,RMZ,29093,CHBE class 1,McPhie,,2
+CHBE 3001,RMZ,27680,CHBE class 2,Satya,,4
+MGT 3150,RMZ,27503,Mgt class 1,Sands,,3
+MGT 3660,RMZ,22439,MGT class 2,Sands,,3
+MSE 2001,RMZ,24427,MSE class,Capolungo,,3
