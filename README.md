@@ -1,1 +1,1 @@
-Some of the old code I did in the past while learning to code.  Meh.
+Some of the old code I did in the past while learning to code.  Meh.  Too messy, inconsistent, and too many side effects in functions.   I don't like it anymore.  Does some cool stuff though (1/2 credit?)
