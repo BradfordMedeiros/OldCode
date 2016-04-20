@@ -1,0 +1,8 @@
+must install the following to run on drone:
+
+- node.js (whatever dependencies needed for this as well)
+- npm install xbox-controller
+	https://github.com/andrew/node-xbox-controller
+	- might need to  sudo apt-get install libusb-1.0-0-dev if 	install.sh fails while installing controller (during its install)
+
+

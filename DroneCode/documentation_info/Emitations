@@ -1,0 +1,27 @@
+Things emitted:
+
+name:			  vision:facedetected  															
+arguements:  	  faces (array of face): face.x, face.y, face.width, face.height
+description: 	  called when a >= 1 face is detected.  Contains information about the faces.
+
+-------------------------------------------------------------------------------------------------------
+
+name:			  movement:navigationrequest
+arguements:  	  targetlocation	 (klaus, van leer, etc)				
+description: 	  called upon request to move to a targetlocation.  
+
+-------------------------------------------------------------------------------------------------------
+
+name:			  movement:requestdronestate
+arguements:  	  state	 (following, navigation,etc)	
+description: 	  called upon request to change state of the drone (navigation, following, etc)
+
+-------------------------------------------------------------------------
+
+name: 			camera
+arguement:		pngBuffer 
+description: 	video feed of the camera 
+
+
+
+

@@ -1,0 +1,42 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'ardrone-autonomy' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.36
+4 verbose node symlink /usr/bin/node
+5 verbose config Skipping project config: /home/samantha/.npmrc. (matches userconfig)
+6 warn package.json build@0.1.4 No README data
+7 warn package.json configure@0.0.1 bugs['name'] should probably be bugs['url'].
+8 verbose cache add [ 'ardrone-autonomy', null ]
+9 verbose cache add name=undefined spec="ardrone-autonomy" args=["ardrone-autonomy",null]
+10 verbose parsed url { protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: 'ardrone-autonomy',
+10 verbose parsed url   path: 'ardrone-autonomy',
+10 verbose parsed url   href: 'ardrone-autonomy' }
+11 silly lockFile 57724995-ardrone-autonomy ardrone-autonomy
+12 verbose lock ardrone-autonomy /home/samantha/.npm/57724995-ardrone-autonomy.lock
+13 silly lockFile 57724995-ardrone-autonomy ardrone-autonomy
+14 error Error: Attempt to unlock ardrone-autonomy, which hasn't been locked
+14 error     at unlock (/usr/lib/node_modules/npm/lib/utils/locker.js:44:11)
+14 error     at cb (/usr/lib/node_modules/npm/lib/cache/add-local.js:30:5)
+14 error     at /usr/lib/node_modules/npm/lib/cache/add-local.js:47:20
+14 error     at /usr/lib/node_modules/npm/lib/utils/locker.js:30:7
+14 error     at cb (/usr/lib/node_modules/npm/node_modules/lockfile/lockfile.js:149:38)
+14 error     at /usr/lib/node_modules/npm/node_modules/lockfile/lockfile.js:177:38
+14 error     at Object.oncomplete (fs.js:108:15)
+15 error If you need help, you may report this *entire* log,
+15 error including the npm and node versions, at:
+15 error     <http://github.com/npm/npm/issues>
+16 error System Linux 3.13.0-32-generic
+17 error command "/usr/bin/node" "/usr/bin/npm" "install" "ardrone-autonomy"
+18 error cwd /home/samantha/Desktop/Drone Code
+19 error node -v v0.10.36
+20 error npm -v 1.4.28
+21 verbose exit [ 1, true ]

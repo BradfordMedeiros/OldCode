@@ -1,0 +1,105 @@
+//Hint:  I don't code in Javascript, I don't know shit.
+//Hint:  I made this ghetto shit to import stuff.  Just use it okay?
+//This is a hack muthafucker
+
+//////////Used to include code/////////////////////////
+
+// can use include('javascript.js') now
+
+var _ONDRONE_ = false;
+SUPRESS_WARNINGS = true;
+
+var fs = require("fs");
+var _include_defs = {};
+
+function read(f){
+	return fs.readFileSync(f).toString();
+}
+
+function include(f){
+
+	if (_include_defs[f] != undefined ){					// make sure you don't include the file twice
+		console.log("WARNING: File already included: ( "+f+" )");
+		return;
+	}
+	
+	eval.apply(global,[read(f)]);
+	_include_defs[f] = 'defined';
+	
+
+}
+
+///////////////include files here///////////////////////////////////
+//order surprisingly doesn't matter
+var MOVEMENT_ENABLED = true;
+
+
+
+include('bootstrapper.js');
+include('gps.js');
+include('movement.js');
+include('toolset.js');
+//include('xboxcontroller.js');
+include('pathfinding.js')
+if ( _ONDRONE_ ){
+	//include ("MBED.js or whatever")
+}
+
+var autonomy = require('ardrone-autonomy');	//useful library to check out
+var arDrone = require('ar-drone');
+var HID = require('node-hid');
+//var xbox = require('node-xboxdrv');
+
+
+var drone = arDrone.createClient();
+var boot = new _bootstrapper();
+var gps = new _gps(boot,  drone,  true);
+var pathfinder = new _pathfinder( gps );
+//move.moveToGPS( 33.776225, -84.396683);
+set = false;
+
+
+console.log(gps.getLatitude(34));
+
+//var destinations  = pathfinder.getDestinationList ( );	
+//pathfinder.setDestination (destination name );		// must do this!
+// print this out make sure it shows KLAUS, Student Cneter, etc
+
+var node1 = pathfinder.getNextNode( 33.776225, -84.396683);
+// should return node1.
+// node = {};  node.latitude = X, node.longitude =y ;  // IMPORTQNT or 0 if at destination  or -1 for no destination set  -2 if exceed max tries
+// this should the the gps coordinaters of where to go next
+//ar node1 = pathfinder.getNextNode( 64.9, -84.396683);
+
+
+
+// so you sho
+//console.log(node1);
+
+
+
+/// MAIN TESTING CODE
+////////////////////////////////////////////////
+/*
+	pathfinder.setDestinationNode(node_name);
+
+	var node = node.getNextNode ( 33.776225, -84.396683);   // these #s arent in final release but ill worry about that --> this is initial gps location
+	while (node != 0 ){		// while we are not at our target destination
+		var node = node.getNextNode( node.latitude, node.longitude);
+
+		// would fly to node physically here but you dont worry
+		////////////////////////////
+
+
+
+
+	
+	}
+*/
+
+//console.log("distance:  "+_toolset.getGPSDistance(node1.latitude, node1.longitude, node2.latitude, node2.longitude ));
+
+console.log("\n\nND PROGRAM");
+
+
+//move.setGPS ( gps );		// MUST CALL HERE

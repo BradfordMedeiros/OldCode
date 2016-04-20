@@ -1,0 +1,1 @@
+various run configurations to set which project will be main

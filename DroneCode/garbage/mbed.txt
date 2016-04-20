@@ -1,0 +1,24 @@
+//@TODO:  Everything
+//@TODO:  Testing
+//@TODO:  Documentation
+
+/**
+	This is the gps module.  It should subscribe to speech buffer.  publish to nothing
+	Just placeholder code for now
+
+	**/  
+
+function _mbed(bootstrapper){
+	this.name = "mbed";
+	bootstrapper.addSubscriberToTopic("speech buffer", this);
+}
+
+//@TODO
+_mbed.prototype.writeMbed = function(){
+
+}
+
+//@TODO
+_mbed.prototype.readMbed = function(){
+
+}
